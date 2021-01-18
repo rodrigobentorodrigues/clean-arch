@@ -21,13 +21,13 @@ using CleanArch.MVC;
 #nullable disable
 #nullable restore
 #line 2 "C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.MVC\Views\_ViewImports.cshtml"
-using CleanArch.MVC.Models;
+using CleanArch.Infra.Data.Models;
 
 #line default
 #line hidden
 #nullable disable
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"7091c65830b0329e613be026ede8a57552863778", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"2f32c48c41a0bd740c3bb64df180bc6e5e3b7e0f", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"3affd169668f87e15072b0b5949c6c6dcec64b61", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

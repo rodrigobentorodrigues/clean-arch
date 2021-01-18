@@ -1,6 +1,4 @@
-using System;
-
-namespace CleanArch.MVC.Models
+namespace CleanArch.Infra.Data.Models
 {
     public class ErrorViewModel
     {
