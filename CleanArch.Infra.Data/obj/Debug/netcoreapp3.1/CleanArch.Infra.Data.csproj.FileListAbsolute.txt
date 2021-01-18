@@ -1,0 +1,12 @@
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.deps.json
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csprojAssemblyReference.cache
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfoInputs.cache
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.AssemblyInfo.cs
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.csproj.CopyComplete
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.Data\obj\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb

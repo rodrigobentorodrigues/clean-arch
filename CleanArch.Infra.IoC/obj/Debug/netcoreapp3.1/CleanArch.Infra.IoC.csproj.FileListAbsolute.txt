@@ -1,0 +1,16 @@
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.deps.json
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.dll
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.dll
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.dll
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.dll
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Application.pdb
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Domain.pdb
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\bin\Debug\netcoreapp3.1\CleanArch.Infra.Data.pdb
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.csprojAssemblyReference.cache
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.AssemblyInfoInputs.cache
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.AssemblyInfo.cs
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.csproj.CoreCompileInputs.cache
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.csproj.CopyComplete
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.dll
+C:\Users\SOFTEC\Documents\Rodrigo\dotnet\Clean Architecture\CleanArch\CleanArch.Infra.IoC\obj\Debug\netcoreapp3.1\CleanArch.Infra.IoC.pdb
