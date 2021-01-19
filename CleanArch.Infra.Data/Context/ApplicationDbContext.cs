@@ -1,4 +1,6 @@
-﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+﻿using CleanArch.Domain.Entities;
+using CleanArch.Infra.Data.EntityConfigurations;
+using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace CleanArch.Infra.Data.Context
@@ -9,5 +11,13 @@ namespace CleanArch.Infra.Data.Context
             : base(options)
         {
         }
+
+        protected override void OnModelCreating(ModelBuilder builder)
+        {
+            base.OnModelCreating(builder);
+            builder.ApplyConfiguration(new ProductConfiguration());
+        }
+
+        public DbSet<Product> Products { get; set; }
     }
 }
