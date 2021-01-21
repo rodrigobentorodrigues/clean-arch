@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "T1L8eDzf9F541pTK9gpfFQIOcZcnucUXZVQsjKlhkFRl6op/SWeKLnTHqo8PWZjw2yq1h5hB5h7g6wRm5vaVBA==",
+  "dgSpecHash": "xm+pKFuWAnQ6Zw6iSeiYQ22c8fjsJiYkP8kxeD1kkuxfZPjORjn6WZPKWSGRuZ6CHeyYxdPrUylWBZKSWr4ibg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SOFTEC\\Documents\\Rodrigo\\dotnet\\Clean Architecture\\CleanArch\\CleanArch.Application\\CleanArch.Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SOFTEC\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\SOFTEC\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\SOFTEC\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
   "logs": []
 }
