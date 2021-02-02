@@ -20,6 +20,7 @@ namespace CleanArch.Application.ViewModels
         [Required(ErrorMessage = "The Price is Required")]
         [Range(1, 99999.99)]
         [DisplayName("Price")]
+        [DisplayFormat(DataFormatString = "{0:C2}")]
         public decimal Price { get; set; }
 
 

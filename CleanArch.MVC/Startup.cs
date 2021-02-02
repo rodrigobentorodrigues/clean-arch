@@ -1,4 +1,5 @@
 using CleanArch.Infra.Ioc;
+using CleanArch.MVC.MappingConfig;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -22,6 +23,8 @@ namespace CleanArch.MVC
             services.AddInfrastructure(Configuration);
             services.AddControllersWithViews();
             services.AddRazorPages();
+
+            services.AddAutoMapperConfiguration();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
