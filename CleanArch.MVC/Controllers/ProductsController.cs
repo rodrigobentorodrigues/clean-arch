@@ -33,7 +33,7 @@ namespace CleanArch.MVC.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("Id,Name,Description,Price")] ProductViewModel product)
+        public IActionResult Create([Bind("Id,Name,Description,Price")] ProductViewModel product)
         {
             if (ModelState.IsValid)
             {
@@ -42,6 +42,71 @@ namespace CleanArch.MVC.Controllers
             }
 
             return View(product);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Edit(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var productViewModel = await _productService.GetById(id);
+            if (productViewModel == null)
+                return NotFound();
+
+            return View(productViewModel);
+        }
+
+        [HttpPost]
+        [ValidateAntiForgeryToken]
+        public IActionResult Edit([Bind("Id,Name,Description,Price")] ProductViewModel product)
+        {
+            if (ModelState.IsValid)
+            {
+                try
+                {
+                    _productService.Update(product);
+                } catch (Exception)
+                {
+                    throw;
+                }
+                return RedirectToAction(nameof(Index));
+            }
+
+            return View(product);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Details(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var productViewModel = await _productService.GetById(id);
+            if (productViewModel == null)
+                return NotFound();
+
+            return View(productViewModel);
+        }
+
+        [HttpGet]
+        public async Task<IActionResult> Delete(int? id)
+        {
+            if (id == null)
+                return NotFound();
+
+            var productViewModel = await _productService.GetById(id);
+            if (productViewModel == null)
+                return NotFound();
+
+            return View(productViewModel);
+        }
+
+        [HttpPost, ActionName("Delete")]
+        public IActionResult DeleteConfirmed(int id)
+        {
+            _productService.Remove(id);
+            return RedirectToAction("Index");
         }
 
     }

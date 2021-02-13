@@ -326,9 +326,6 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\Users\\SOFTEC\\Documents\\Rodrigo\\dotnet\\Clean Architecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj": {
-                "projectPath": "C:\\Users\\SOFTEC\\Documents\\Rodrigo\\dotnet\\Clean Architecture\\CleanArch\\CleanArch.Infra.Data\\CleanArch.Infra.Data.csproj"
-              },
               "C:\\Users\\SOFTEC\\Documents\\Rodrigo\\dotnet\\Clean Architecture\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj": {
                 "projectPath": "C:\\Users\\SOFTEC\\Documents\\Rodrigo\\dotnet\\Clean Architecture\\CleanArch\\CleanArch.Infra.IoC\\CleanArch.Infra.IoC.csproj"
               }
@@ -351,7 +348,7 @@
             },
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
-              "version": "[5.0.1, )"
+              "version": "[5.0.2, )"
             }
           },
           "imports": [
